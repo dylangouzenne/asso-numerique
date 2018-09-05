@@ -1,0 +1,23 @@
+Pour son instalation a Auch l'association tous au numérique souhaite créer un programme qui lui permetra d'enregistrer les visiteur a l'entrer et de recceuilir leur avis a la sortie de leurs evenements.
+
+quant le visiteur se presente a un evenement, le programme doit pouvoir permetre de saisir dans un formulaire d'enregistrement :
+
+- l'identité de la personne ( nom, prenom )
+- sont entreprise, poste et adresse de l'entreprise
+- Ou elle à entendu parler de cet événement
+
+quant le visiteur repart de l'evenement, le programme doit pouvoir permetre de remplir dans un formulaire de satisfaction :
+- si le commentaire est anonyme ou s'il est ratacher a un visiteur inscrit à l'entrée
+- Quels stands, ateliers ou présentations il a le plus apprécié
+- s'il souhaite être recontacté prochainement remplir une ou plusieur date et heure de disponibilité
+- Quelles sont ses attentes vis-à-vis de la structure de l'association
+
+le programme doit enregistrer automatiquement la date et heure de chaque enregistrement et avis afin de pouvoir effectuer des statistique sur les flux entrant et sortant et représenter les pics de visite.
+
+il doit permetre egalement de visualiser la liste des entreprise et lieux les plus représenter parmit la liste des inscrit
+
+le programme doit permètre au administrateur de l'association de visualiser l'ensemble des données receuilli sur une page admin.
+
+
+
+
